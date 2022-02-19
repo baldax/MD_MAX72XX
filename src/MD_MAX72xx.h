@@ -472,6 +472,9 @@ public:
    */
   void begin(void);
 
+  void restart(void);
+  void softRestart(void);
+
   /**
    * Class Destructor.
    *
